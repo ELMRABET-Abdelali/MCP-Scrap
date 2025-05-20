@@ -1,9 +1,20 @@
 # MCP-Scrap
 
-## to install mcp tools use in terminal
+MCP-Scrap is a lightweight Python tool designed to simplify web scraping tasks using the MCP CLI. With support for BeautifulSoup and HTTPX, it allows users to quickly extract and process data from web pages.
+
+---
+
+## Features
+
+- Simple command-line interface
+- Easily integrates with BeautifulSoup4 and HTTPX
+- Minimal setup and quick start
+
+---
+
+## Installation
+
+To install MCP-Scrap and its dependencies, run the following command in your terminal:
+
+```bash
 pip install mcp[mcpCli] beautifulsoup4 httpx
-
-## then download the  mcpscrap.py file 
-
-## in terminal : go to the directory wher you put you downloaded file and use the command below:
-mcp drive mcpscrap.py
