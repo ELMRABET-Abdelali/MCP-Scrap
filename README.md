@@ -18,13 +18,16 @@ To install MCP-Scrap and its dependencies, run the following command in your ter
 
 ```bash
 pip install mcp[mcpCli] beautifulsoup4 httpx
+```
 
 ---
 
-## Uage
-to use it, run the following command in your terminal:
+## Usage
+
+To use it, run the following command in your terminal:
 
 ```bash
 mcp dev mcpscrap.py
+```
 
 ---
